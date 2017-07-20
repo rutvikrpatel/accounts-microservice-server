@@ -1,0 +1,5 @@
+com\rutvikpatel\ms\accounts\AccountController.class
+com\rutvikpatel\ms\accounts\AccountRepository.class
+com\rutvikpatel\ms\accounts\StubAccountRepository.class
+com\rutvikpatel\ms\accounts\Account.class
+com\rutvikpatel\ms\accounts\AccountsMicroserviceServerApplication.class
