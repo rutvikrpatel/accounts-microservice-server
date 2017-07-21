@@ -1,5 +1,5 @@
-# accounts-microservice-server
-> Day 2 - Spring Boot - Accounts Micro Service Data Provider
+# accounts-microservice-server - PART 2
+> Day 2 - Spring Boot - Accounts Micro Service Data Provider - PART 2
 
 ### Description
 In these project all backend side work of database managed and provided like Restful web services.
